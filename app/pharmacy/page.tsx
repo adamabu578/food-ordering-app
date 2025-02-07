@@ -1,10 +1,10 @@
 import React from 'react'
-import FoodDeliveryApp from '@/components/food/RestaurantCard'
+import PharmacyStore from '@/components/pharmacy/pharmacy'
 
 const pharmacy = () => {
   return (
     <div>
-     <FoodDeliveryApp/>
+     <PharmacyStore/>
 
     </div>
   )
