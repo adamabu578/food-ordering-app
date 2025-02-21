@@ -18,9 +18,19 @@ export default function Home() {
       href: "/pharmacy",
     },
     {
-      name: "Groceries",
+      name: "shops",
+      src: "/assets/shops-icon.png",
+      href: "/shops",
+    },
+    {
+      name: "groceries",
       src: "/assets/grocery.png",
       href: "/groceries",
+    },
+    {
+      name: "package Delivery",
+      src: "/assets/delivery-icon.png",
+      href: "/package-Delivery",
     },
   ];
 
