@@ -292,7 +292,7 @@ const FoodDeliveryApp = () => {
       reviews: "109",
       price: "NGN 950.00",
       time: "45-55 min",
-      image: "/assets/coldStone-cream.png",
+      image: "/assets/ColdStone-cream.png",
     },
     {
       name: "The Place",
